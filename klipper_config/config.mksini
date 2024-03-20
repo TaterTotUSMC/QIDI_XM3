@@ -18,11 +18,11 @@ hot                            = 40
 
 
 [babystep]
-value                          = -1.700
+value                          = -2.20000
 
 
 [total]
-time                           = 4760
+time                           = 5487
 
 
 [oobe]
